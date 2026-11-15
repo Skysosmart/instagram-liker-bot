@@ -1,0 +1,8 @@
+*.egg-info/
+build/
+htmlcov/
+dist/
+*.py[cod]
+.mypy_cache/
+env/
+.pytest_cache/
